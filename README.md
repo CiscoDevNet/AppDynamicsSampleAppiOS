@@ -80,14 +80,11 @@ To install cocoapods, use `sudo gem install cocoapods`.
 
 4. Get an App Key from your Controller:
 
-   a. In the Controller, go to User Experience
-   b. Under the Mobile Apps tab, click Add App
-   c. Select iOS
-   d. In the Getting Started Wizard > Step 3, select Auto
-      Generate App Key
-   e. In the Getting Started Wizard > Step 5, copy the
-      generated App Key that is shown in the
-      ADEumInstrumentationto.initWithKey() snippet.
+   - In the Controller, go to User Experience
+   - Under the Mobile Apps tab, click Add App
+   - Select iOS
+   - In the Getting Started Wizard > Step 3, select Auto Generate App Key
+   - In the Getting Started Wizard > Step 5, copy the generated App Key that is shown in the ADEumInstrumentationto.initWithKey() snippet.
 
 5. Get the collector and screenshot URLs. To find the URLs for your
    region, see:
